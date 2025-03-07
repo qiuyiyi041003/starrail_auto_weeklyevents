@@ -1,0 +1,1 @@
+# starrail_auto_weeklyevents
